@@ -2,3 +2,4 @@ Welcome! this is a test file
 lets change something
 
 create a branch
+conflict in master
